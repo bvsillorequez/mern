@@ -1,4 +1,5 @@
 import TweetBox from "../tweets/tweet_box";
+import React from "react" 
 
 class Profile extends React.Component {
   constructor(props) {
